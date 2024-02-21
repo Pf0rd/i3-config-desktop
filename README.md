@@ -1,0 +1,1 @@
+This is my main Desktop i3 config on ubuntu. Unlike my laptop config, I use polybar, and its a little more aesthetically appealing. Here are the specs of my pc: Intel i5-10400f, RTX 2060 Super, 16gbs or ddr4 ram at 3000mhz. enjoy :)
